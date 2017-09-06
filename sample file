@@ -1,0 +1,45 @@
+<!-- Layout-->
+Object API name-Layout API name (Choose page layout from the corresponding object in the org)
+
+<!-- EmailTemplate -->
+
+FolderName/Template Name (Choose Email Template in the org & type the corresponding Template name)
+
+<!-- CustomField -->
+
+ObjectName.Field Name 
+
+<!-- CustomLabel -->
+
+Labelname (Type the corresponding label name in the org)
+
+<!-- Custom object --> 
+
+Objec Name(Type the corresponding custom object in the org)
+
+<!-- Custom Tab -->
+
+Tab name (Type the corresponding custom tab in the org)
+
+
+<!-- Group -->
+
+Group name (Type the corresponding group name in the org)
+
+<!-- MatchingRule -->
+
+ObjectName.Rule API name (Type the matching rule name in the org)
+
+<!-- Letterhead -->
+
+Type letterhead in the search and look for corresponding name as well.
+
+
+<!-- Queue -->
+
+Type Queue in the search and look for corresponding name as well.
+
+
+<!-- RecordType-->
+ObjectName.Recordtype API name 
+
